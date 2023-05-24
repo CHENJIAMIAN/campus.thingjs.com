@@ -1,0 +1,72 @@
+选中线路
+
+点击流速-反向
+
+ t._e(), t._v(" "), a.tools.reverse ? e("Button", {
+                staticClass: "right-btn",
+                attrs: {
+                    disabled: t._selectObjData.isLock || a.disabled,
+                    tooltip: t.$t("objectProperty.reverse"),
+                    type: t._selectObjData.isReverseLine ? "primary" : "default",
+                    customIcon: "uino-icon uino-icon-fanxiang"
+                },
+                on: {
+                    click: function(e) {
+                        return t.reverseLine()
+                    }
+                }
+            })
+
+reverseLine
+
+$store.commit 了 changeLinerReverse
+
+editor
+    defaultBackgroundColor,app,OS,workPlane,windowDoorimages,floorplanImages,objectManager,cmdManager,levelManager,stateManager,selectManager,BaseTool,CornerTool,DoorTool,FloorTool,GroupTool,RoomTool,WallTool,EditorTool,CameraTool,EditorArcWallTool,EditorReplaceWallTextureTool,EditorReplaceRoomInnerWallTextureTool,EditorRotationBuildingTool,EditorIdTool,sceneDataHandle,root
+
+editor.cmdManager.execute(
+{
+    newData: {reverseLine: true}
+    object: i {_name: '', _id: '', _uuid: '2315C9BD-2484-486A-9574-EE9C7EE808C9', _flags: Ut, _body: PI, …}
+    type: "ModifyProperty"
+})
+
+执行了其属性拦截器
+key: "__reverseLine",改变了线的点的顺序
+
+ 
+key: "_addTweenEvent" 的 this.object.on("update" 不断地被调用
+
+-------------------------------------------------------------------------------------
+thing.js
+
+_onNeedProxy附近的set拦截属性访问
+
+
+触发
+_createUVMatrixData() {
+    var e = this[DI];
+    return e.uvData || (e.uvData = new fr({
+        data: {
+            map: lL,
+            envMap: lL,
+            alphaMap: lL,
+            emissiveMap: lL,
+            normalMap: lL,
+            colorMapping: lL,
+            aoMap: lL
+        },
+        onChange: t=>{
+            var r = e.curImageSlotType
+                , n = t.data[cL(r)];
+            n && this._updateImageUVMatrix(r, n)
+        }
+    })),
+    e.uvData
+}
+
+
+
+触发 setUVMatrix
+
+触发 uvMatrix: (e,t,r)
