@@ -1,0 +1,1424 @@
+[
+    {
+        "label": "点样式",
+        "value": "mapIcons"
+    },
+    {
+        "label": "线样式",
+        "value": "lineIcons"
+    },
+    {
+        "label": "面样式",
+        "value": "polygonIcons"
+    },
+    {
+        "label": "建筑侧面",
+        "value": "buildingSideIcons"
+    },
+    {
+        "label": "建筑顶面",
+        "value": "buildingTopIcons"
+    },
+    {
+        "label": "透明图",
+        "value": "uvMap"
+    },
+    {
+        "label": "窗户",
+        "value": "windowIcons"
+    },
+    {
+        "label": "法线贴图",
+        "value": "normal"
+    },
+    {
+        "label": "背景图",
+        "value": "background"
+    },
+    {
+        "label": "特效地面",
+        "value": "ground"
+    }
+],
+[
+    {
+        "code": 1059826,
+        "name": "lyp01",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp01.png",
+        "size": 227,
+        "width": 512,
+        "height": 512,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059827,
+        "name": "lyp02",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp02.jpg",
+        "size": 12,
+        "width": 512,
+        "height": 512,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059828,
+        "name": "lyp03",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp03.png",
+        "size": 0,
+        "width": 240,
+        "height": 4,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059829,
+        "name": "lyp04",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp04.png",
+        "size": 0,
+        "width": 240,
+        "height": 4,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059830,
+        "name": "lyp05",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp05.png",
+        "size": 10,
+        "width": 1080,
+        "height": 1080,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059831,
+        "name": "lyp06",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp06.png",
+        "size": 11,
+        "width": 120,
+        "height": 120,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059832,
+        "name": "lyp07",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp07.png",
+        "size": 88,
+        "width": 4505,
+        "height": 4505,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059833,
+        "name": "lyp08",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp08.png",
+        "size": 30,
+        "width": 1080,
+        "height": 1080,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059834,
+        "name": "lyp09",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/buildingSideIcons_lyp09.png",
+        "size": 19,
+        "width": 1920,
+        "height": 1920,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059835,
+        "name": "lyp10",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/lyp10.png",
+        "size": 36,
+        "width": 2046,
+        "height": 2046,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059836,
+        "name": "lyp11",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/lyp11.png",
+        "size": 2453,
+        "width": 2046,
+        "height": 2046,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059837,
+        "name": "lyp12",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/lyp12.png",
+        "size": 2,
+        "width": 2084,
+        "height": 4,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059846,
+        "name": "lyp13",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/lyp13.jpg",
+        "size": 28,
+        "width": 521,
+        "height": 521,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059847,
+        "name": "lyp14",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/lyp14.jpg",
+        "size": 24,
+        "width": 521,
+        "height": 521,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059848,
+        "name": "lyp15",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/lyp15.png",
+        "size": 18,
+        "width": 521,
+        "height": 521,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059849,
+        "name": "lyp16",
+        "type": "buildingSideIcons",
+        "url": "/group6/asserts/buildingSideIcons/20220222/lyp16.png",
+        "size": 15,
+        "width": 521,
+        "height": 521,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059838,
+        "name": "lyp01",
+        "type": "buildingTopIcons",
+        "url": "/group6/asserts/buildingTopIcons/20220222/buildingTopIcons_lyp01.png",
+        "size": 5,
+        "width": 800,
+        "height": 800,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059839,
+        "name": "lyp02",
+        "type": "buildingTopIcons",
+        "url": "/group6/asserts/buildingTopIcons/20220222/buildingTopIcons_lyp02.png",
+        "size": 12,
+        "width": 512,
+        "height": 512,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059815,
+        "name": "lyp01",
+        "type": "lineIcons",
+        "url": "/group6/asserts/lineIcons/20220222/lineIcons_lyp01.png",
+        "size": 0,
+        "width": 240,
+        "height": 4,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059816,
+        "name": "lyp02",
+        "type": "lineIcons",
+        "url": "/group6/asserts/lineIcons/20220222/lineIcons_lyp02.png",
+        "size": 0,
+        "width": 240,
+        "height": 4,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059817,
+        "name": "lyp03",
+        "type": "lineIcons",
+        "url": "/group6/asserts/lineIcons/20220222/lineIcons_lyp03.png",
+        "size": 0,
+        "width": 240,
+        "height": 4,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059818,
+        "name": "lyp04",
+        "type": "lineIcons",
+        "url": "/group6/asserts/lineIcons/20220222/lineIcons_lyp04.png",
+        "size": 10,
+        "width": 1080,
+        "height": 1080,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059819,
+        "name": "lyp05",
+        "type": "lineIcons",
+        "url": "/group6/asserts/lineIcons/20220222/lineIcons_lyp05.png",
+        "size": 9,
+        "width": 1080,
+        "height": 1080,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059820,
+        "name": "lyp06",
+        "type": "lineIcons",
+        "url": "/group6/asserts/lineIcons/20220222/lineIcons_lyp06.png",
+        "size": 30,
+        "width": 1080,
+        "height": 1080,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059821,
+        "name": "lyp07",
+        "type": "lineIcons",
+        "url": "/group6/asserts/lineIcons/20220222/lineIcons_lyp07.png",
+        "size": 111,
+        "width": 1080,
+        "height": 1080,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059822,
+        "name": "lyp08",
+        "type": "lineIcons",
+        "url": "/group6/asserts/lineIcons/20220222/lineIcons_lyp08.png",
+        "size": 2,
+        "width": 2084,
+        "height": 4,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059813,
+        "name": "lyp02",
+        "type": "mapIcons",
+        "url": "/group6/asserts/mapIcons/20220222/mapIcons_lyp02.png",
+        "size": 704,
+        "width": 2046,
+        "height": 2046,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059814,
+        "name": "lyp03",
+        "type": "mapIcons",
+        "url": "/group6/asserts/mapIcons/20220222/mapIcons_lyp03.png",
+        "size": 7,
+        "width": 128,
+        "height": 128,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059840,
+        "name": "lyp04",
+        "type": "mapIcons",
+        "url": "/group6/asserts/mapIcons/20220222/mapIcons_lyp04.png",
+        "size": 13,
+        "width": 160,
+        "height": 320,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059841,
+        "name": "lyp05",
+        "type": "mapIcons",
+        "url": "/group6/asserts/mapIcons/20220222/mapIcons_lyp05.png",
+        "size": 5,
+        "width": 84,
+        "height": 88,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059842,
+        "name": "lyp06",
+        "type": "mapIcons",
+        "url": "/group6/asserts/mapIcons/20220222/mapIcons_lyp06.png",
+        "size": 5,
+        "width": 84,
+        "height": 88,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059843,
+        "name": "lyp07",
+        "type": "mapIcons",
+        "url": "/group6/asserts/mapIcons/20220222/mapIcons_lyp07.png",
+        "size": 4,
+        "width": 86,
+        "height": 139,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059844,
+        "name": "lyp08",
+        "type": "mapIcons",
+        "url": "/group6/asserts/mapIcons/20220222/mapIcons_lyp08.png",
+        "size": 4,
+        "width": 86,
+        "height": 139,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059845,
+        "name": "lyp09",
+        "type": "mapIcons",
+        "url": "/group6/asserts/mapIcons/20220222/mapIcons_lyp09.png",
+        "size": 6,
+        "width": 47,
+        "height": 89,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059823,
+        "name": "lyp01",
+        "type": "polygonIcons",
+        "url": "/group6/asserts/polygonIcons/20220222/polygonIcons_lyp01.png",
+        "size": 973,
+        "width": 1200,
+        "height": 1200,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059824,
+        "name": "lyp02",
+        "type": "polygonIcons",
+        "url": "/group6/asserts/polygonIcons/20220222/polygonIcons_lyp02.png",
+        "size": 5,
+        "width": 800,
+        "height": 800,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059825,
+        "name": "lyp03",
+        "type": "polygonIcons",
+        "url": "/group6/asserts/polygonIcons/20220222/polygonIcons_lyp03.png",
+        "size": 12,
+        "width": 512,
+        "height": 512,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059851,
+        "name": "lyp01",
+        "type": "uvMap",
+        "url": "/group6/asserts/uvMap/20220222/uvMap_lyp01.png",
+        "size": 27,
+        "width": 80,
+        "height": 1444,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1169156,
+        "name": ""Label"Background",
+        "type": ""building"TopIcons",
+        "url": "/group6/asserts/uvMap/2023/icon_20230104165128111_387914.png",
+        "size": 1,
+        "width": 162,
+        "height": 66,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059810,
+        "name": "lyp01",
+        "type": "windowIcons",
+        "url": "/group6/asserts/windowIcons/20220222/windowIcons_lyp01.jpg",
+        "size": 12,
+        "width": 512,
+        "height": 512,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059811,
+        "name": "lyp02",
+        "type": "windowIcons",
+        "url": "/group6/asserts/windowIcons/20220222/windowIcons_lyp02.png",
+        "size": 1236,
+        "width": 8192,
+        "height": 8192,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059850,
+        "name": "lyp03",
+        "type": "windowIcons",
+        "url": "/group6/asserts/windowIcons/20220222/windowIcons_lyp03.png",
+        "size": 7,
+        "width": 240,
+        "height": 240,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1059812,
+        "name": "lyp04",
+        "type": "windowIcons",
+        "url": "/group6/asserts/windowIcons/20220222/windowIcons_lyp04.png",
+        "size": 19,
+        "width": 1920,
+        "height": 1920,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002496,
+        "name": "bg01",
+        "type": "background",
+        "url": "background/systemIcons/bg01.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002497,
+        "name": "bg02",
+        "type": "background",
+        "url": "background/systemIcons/bg02.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002477,
+        "name": "g_1_t_0",
+        "type": "buildingTopIcons",
+        "url": "buildingIcons/systemIcons/g_1_t_0.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002479,
+        "name": "g_1_w_1",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_1_w_1.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002480,
+        "name": "g_1_w_2",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_1_w_2.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002481,
+        "name": "g_1_w_3",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_1_w_3.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002482,
+        "name": "g_1_w_4",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_1_w_4.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002483,
+        "name": "g_1_w_5",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_1_w_5.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002484,
+        "name": "g_1_w_6",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_1_w_6.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002485,
+        "name": "g_1_w_7",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_1_w_7.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002486,
+        "name": "g_1_w_8",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_1_w_8.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002478,
+        "name": "g_2_t_1",
+        "type": "buildingTopIcons",
+        "url": "buildingIcons/systemIcons/g_2_t_1.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002487,
+        "name": "g_2_w_1",
+        "type": "buildingSideIcons",
+        "url": "buildingIcons/systemIcons/g_2_w_1.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1005892,
+        "name": "光1",
+        "type": "ground",
+        "url": "ground/systemIcons/光1.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1005893,
+        "name": "光2",
+        "type": "ground",
+        "url": "ground/systemIcons/光2.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1005894,
+        "name": "光3",
+        "type": "ground",
+        "url": "ground/systemIcons/光3.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1005897,
+        "name": "光点黑白02",
+        "type": "ground",
+        "url": "ground/systemIcons/光点黑白02.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1005895,
+        "name": "地板线01",
+        "type": "ground",
+        "url": "ground/systemIcons/地板线01.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1005896,
+        "name": "地板面02",
+        "type": "ground",
+        "url": "ground/systemIcons/地板面02.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002459,
+        "name": "lightFlow_strip",
+        "type": "lineIcons",
+        "url": "lineIcons/3d/lightFlow_strip.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002460,
+        "name": "lightFlow_strip02",
+        "type": "lineIcons",
+        "url": "lineIcons/3d/lightFlow_strip02.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002461,
+        "name": "lightFlow_strip03",
+        "type": "lineIcons",
+        "url": "lineIcons/3d/lightFlow_strip03.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002462,
+        "name": "lightFlow_strip04",
+        "type": "lineIcons",
+        "url": "lineIcons/3d/lightFlow_strip04.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002463,
+        "name": "lightFlow_strip05",
+        "type": "lineIcons",
+        "url": "lineIcons/3d/lightFlow_strip05.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1009825,
+        "name": "light_line",
+        "type": "lineIcons",
+        "url": "lineIcons/3d/light_line.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002433,
+        "name": "0_default",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/0_default.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002443,
+        "name": "10",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/10.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002444,
+        "name": "11",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/11.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002445,
+        "name": "12",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/12.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002446,
+        "name": "13",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/13.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002447,
+        "name": "15",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/15.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002448,
+        "name": "16",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/16.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002449,
+        "name": "17",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/17.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002450,
+        "name": "18",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/18.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002451,
+        "name": "19",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/19.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002452,
+        "name": "20",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/20.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002453,
+        "name": "22",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/22.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002454,
+        "name": "24",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/24.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002455,
+        "name": "25",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/25.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002456,
+        "name": "26",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/26.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002457,
+        "name": "27",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/27.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1049724,
+        "name": "28",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/28.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1049725,
+        "name": "29",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/29.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002440,
+        "name": "7",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/7.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002441,
+        "name": "8",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/8.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002442,
+        "name": "9",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/9.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002458,
+        "name": "circle",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/circle.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002434,
+        "name": "1",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/mapIcons_1.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002435,
+        "name": "2",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/mapIcons_2.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002436,
+        "name": "3",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/mapIcons_3.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002437,
+        "name": "4",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/mapIcons_4.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002438,
+        "name": "5",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/mapIcons_5.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002439,
+        "name": "6",
+        "type": "mapIcons",
+        "url": "mapIcons/systemIcons/mapIcons_6.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002493,
+        "name": "Water_1_M_Normal",
+        "type": "normal",
+        "url": "normal/systemIcons/Water_1_M_Normal.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002494,
+        "name": "Water_2_M_Normal",
+        "type": "normal",
+        "url": "normal/systemIcons/Water_2_M_Normal.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002492,
+        "name": "normal",
+        "type": "normal",
+        "url": "normal/systemIcons/normal.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002495,
+        "name": "waternormals",
+        "type": "normal",
+        "url": "normal/systemIcons/waternormals.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1051080,
+        "name": "cloud1",
+        "type": "polygonIcons",
+        "url": "polygonIcons/icon_20211122171934767_911124.png",
+        "size": 2143,
+        "width": 2048,
+        "height": 1024,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1051081,
+        "name": "cloud2",
+        "type": "polygonIcons",
+        "url": "polygonIcons/icon_20211122171942873_602309.png",
+        "size": 1353,
+        "width": 2048,
+        "height": 1024,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1051082,
+        "name": "cloud3",
+        "type": "polygonIcons",
+        "url": "polygonIcons/icon_20211122171947591_953861.png",
+        "size": 1937,
+        "width": 2048,
+        "height": 1024,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002466,
+        "name": "1",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/polygonIcons_1.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002467,
+        "name": "2",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/polygonIcons_2.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002468,
+        "name": "3",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/polygonIcons_3.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002469,
+        "name": "4",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/polygonIcons_4.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002470,
+        "name": "5",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/polygonIcons_5.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002471,
+        "name": "6",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/polygonIcons_6.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002472,
+        "name": "reflection",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/reflection.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002473,
+        "name": "refraction",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/refraction.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002474,
+        "name": "water",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/water.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002475,
+        "name": "water1",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/water1.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002476,
+        "name": "water2",
+        "type": "polygonIcons",
+        "url": "polygonIcons/systemIcons/water2.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002640,
+        "name": "skybox",
+        "type": "projectSkyBox",
+        "url": "projectSkyBox/20200803183038354_253944/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1013197,
+        "name": "SunCloud",
+        "type": "projectSkyBox",
+        "url": "projectSkyBox/20210625120128023_118135/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1013198,
+        "name": "Night",
+        "type": "projectSkyBox",
+        "url": "projectSkyBox/20210625120230547_536567/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1013199,
+        "name": "MilkyWay",
+        "type": "projectSkyBox",
+        "url": "projectSkyBox/20210625120244023_487788/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1013200,
+        "name": "BlueSky",
+        "type": "projectSkyBox",
+        "url": "projectSkyBox/20210625120302548_592483/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002500,
+        "name": "skyBox",
+        "type": "projectSkyBox",
+        "url": "projectSkyBox/systemIcons/skybox/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1001130,
+        "name": "skybox",
+        "type": "skybox",
+        "url": "skybox/20191119161556671_609907/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002609,
+        "name": "11111111",
+        "type": "skybox",
+        "url": "skybox/20191121193000290_223311/skybox_20191121193000290_223311_11111111.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1001438,
+        "name": "11111111",
+        "type": "skybox",
+        "url": "skybox/20191216174521024_90430/skybox_20191216174521024_90430_11111111.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1005806,
+        "name": null,
+        "type": "skybox",
+        "url": "skybox/system/build/up.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002498,
+        "name": "reflection1",
+        "type": "skybox",
+        "url": "skybox/systemIcons/reflection1.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1006649,
+        "name": "reflection1-skyBox",
+        "type": "skybox",
+        "url": "skybox/systemIcons/reflection1/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002499,
+        "name": "reflection2",
+        "type": "skybox",
+        "url": "skybox/systemIcons/reflection2.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1006650,
+        "name": "reflection2-skyBox",
+        "type": "skybox",
+        "url": "skybox/systemIcons/reflection2/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1003209,
+        "name": "reflect1",
+        "type": "skybox",
+        "url": "skybox/systemIcons/reflection3.jpg",
+        "size": 269,
+        "width": 600,
+        "height": 600,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1006651,
+        "name": "reflection3-skyBox",
+        "type": "skybox",
+        "url": "skybox/systemIcons/reflection3/",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1164855,
+        "name": "30",
+        "type": "uvMap",
+        "url": "uvMap/systemIcons/30.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1164856,
+        "name": "31",
+        "type": "uvMap",
+        "url": "uvMap/systemIcons/31.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1164857,
+        "name": "32",
+        "type": "uvMap",
+        "url": "uvMap/systemIcons/32.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1058770,
+        "name": "defaultAoMap",
+        "type": "uvMap",
+        "url": "uvMap/systemIcons/defaultAoMap.png",
+        "size": 1,
+        "width": 128,
+        "height": 128,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002490,
+        "name": "reflect1",
+        "type": "uvMap",
+        "url": "uvMap/systemIcons/reflect1.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002489,
+        "name": "scroll",
+        "type": "uvMap",
+        "url": "uvMap/systemIcons/scroll.jpg",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002488,
+        "name": "uvMap20",
+        "type": "uvMap",
+        "url": "uvMap/systemIcons/uvMap20.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    },
+    {
+        "code": 1002491,
+        "name": "uvMap71",
+        "type": "uvMap",
+        "url": "uvMap/systemIcons/uvMap71.png",
+        "size": 0,
+        "width": 0,
+        "height": 0,
+        "author": "cityadmin"
+    }
+]
