@@ -1,0 +1,201 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "GLTFExporter"
+  },
+  "scenes": [
+    {
+      "name": "Root Scene",
+      "nodes": [
+        1
+      ]
+    }
+  ],
+  "scene": 0,
+  "nodes": [
+    {
+      "matrix": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        3.422854299994782e-8,
+        -0.999999965771457,
+        0,
+        0,
+        0.999999965771457,
+        3.422854299994782e-8,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "name": "Lo-RoadTooth_01",
+      "extras": {
+        "name": "Lo-RoadTooth_01"
+      },
+      "mesh": 0
+    },
+    {
+      "name": "RootNode",
+      "extras": {
+        "name": "RootNode"
+      },
+      "children": [
+        0
+      ]
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 240,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 240,
+      "byteLength": 240,
+      "target": 34962,
+      "byteStride": 12
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 480,
+      "byteLength": 160,
+      "target": 34962,
+      "byteStride": 8
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 640,
+      "byteLength": 60,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 700,
+      "uri": "data:application/octet-stream;base64,AAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAgD8AAAAAAAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAAAAAAIA/AAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAAAAAAAAgL8AAAAAAACAP6AAIDUAAAAAAACAP6AAIDUAAAAAAACAP6AAIDUAAAAAAACAP6AAIDUAAAAAAACAv6AAoLQAAAAAAACAv6AAoLQAAAAAAACAv6AAoLQAAAAAAACAv6AAoLQAAAAAvQAAvwDMzD3MzEw+hv7/PgDMzD3MzEw+hv7/PgDMzD0AAMCyvQAAvwDMzD0AAMCyk/b/vgDMzL3MzEw+FvT/PgDMzL3MzEw+hv7/PgDMzD3MzEw+vQAAvwDMzD3MzEw+vAAAvwDMzL3MzEw+vAAAvwDMzL0AAMCyiv7/PgDMzL0AAMCyiv7/PgDMzL3MzEw+iv7/PgDMzL0AAMCyhv7/PgDMzD0AAMCyhv7/PgDMzD3MzEw+iv7/PgDMzL3MzEw+vAAAvwDMzL3MzEw+vQAAvwDMzD3MzEw+vQAAvwDMzD0AAMCyvAAAvwDMzL0AAMCyAPACOi/GPD9E338/L8Y8P0Tffz/iiZ0/APACOuKJnT8AKBc6nq0vP6bZfz/LtC8/8d5/PzKloD4ApAE62pagPgDyAjrYg0G+APICOkDZmz5C338/QNmbPkLffz/Yg0G+eqMZPuj3SL56oxk+uH6PPq5mID+4fo8+rmYgP+j3SL6uZiA/Bi6PPq5mID9ImUm+eqMZPkiZSb56oxk+Bi6PPgAAAQACAAIAAwAAAAQABQAGAAYABwAEAAgACQAKAAoACwAIAAwADQAOAA4ADwAMABAAEQASABIAEwAQAA=="
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.499988853931427,
+        0.09999847412109375,
+        0.19999998807907104
+      ],
+      "min": [
+        -0.5000112652778625,
+        -0.09999847412109375,
+        -2.2351741790771484e-8
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 20,
+      "max": [
+        0.9995005130767822,
+        1.2307703495025635
+      ],
+      "min": [
+        0.000494539737701416,
+        -0.19687378406524658
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 30,
+      "max": [
+        19
+      ],
+      "min": [
+        0
+      ],
+      "type": "SCALAR"
+    }
+  ],
+  "materials": [
+    {
+      "pbrMetallicRoughness": {
+        "metallicFactor": 0.099999994,
+        "roughnessFactor": 1,
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "name": "Std_RoadTooth_02_jpg",
+      "extras": {
+        "gltfExtensions": {}
+      }
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0,
+      "name": "smd_1.jpg"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "images": [
+    {
+      "mimeType": "image/png",
+      "uri": "data:image/png;base64,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"
+    }
+  ],
+  "meshes": [
+    {
+      "primitives": [
+        {
+          "mode": 4,
+          "attributes": {
+            "NORMAL": 0,
+            "POSITION": 1,
+            "TEXCOORD_0": 2
+          },
+          "extras": {
+            "$cacheKey": "https://model.3dmomoda.com/models/9DD39737B6D14BD4B369D124F052C0CB/0/gltf/true"
+          },
+          "indices": 3,
+          "material": 0
+        }
+      ]
+    }
+  ]
+}
